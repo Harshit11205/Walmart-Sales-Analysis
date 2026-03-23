@@ -1,0 +1,5 @@
+Libraries:
+Pandas
+#My SQL Toolkit
+pymysql # will work as an adapter
+sqlalchemy create_engine 
